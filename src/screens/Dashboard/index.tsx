@@ -94,7 +94,7 @@ const Dashboard: React.FC = () => {
             />
             <UserGreeting>
               <Greeting>Hello,</Greeting>
-              <Username>Max</Username>
+              <Username>Max Branco</Username>
             </UserGreeting>
           </UserInfo>
           <Icon name="power" />
