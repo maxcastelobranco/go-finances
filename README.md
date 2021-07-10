@@ -19,11 +19,11 @@
 - [React Native Bottom Sheet](https://github.com/gorhom/react-native-bottom-sheet)
 - [React Native Chart Kit](https://github.com/indiespirit/react-native-chart-kit)
 
-### Transaction list
+## Transaction list
 ![Transactions](.github/transaction-list.gif)
 
-### Register transaction
+## Register transaction
 ![Transactions](.github/register-transaction.gif)
 
-### Transaction summary
+## Transaction summary
 ![Transactions](.github/transaction-summary.png)
