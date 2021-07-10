@@ -8,7 +8,7 @@
   GoFinances is a mobile app to manage personal finances.
 </h4>
 
-## Tecnologies used in this project
+## Technologies used in this project
 
 - [React Native](https://github.com/facebook/react-native)
 - [Expo](https://github.com/expo/expo)
